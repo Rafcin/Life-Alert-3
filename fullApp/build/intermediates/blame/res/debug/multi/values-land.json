@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 61,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 55,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 55,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 54,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 54,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    }
+]

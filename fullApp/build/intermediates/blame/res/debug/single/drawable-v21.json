@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

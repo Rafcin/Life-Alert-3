@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.github.ytai.ioio/IOIOLibCore/5.05/99821d5ab444306c6e39f3de72f85c4b287a6765/IOIOLibCore-5.05.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99821d5ab444306c6e39f3de72f85c4b287a6765">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/IOIOLibCore-5.05_5b1001d508a4706fc4bf5a0d0e7975b928eb0c24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-ai-1.8.0_756786dababec4b862ed4cf6fd6e9668fad40f93/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroidBluetooth/5.05/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f347dcaafe682fdd3d3131c9d6568065a8cd83ab">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidBluetooth-5.05_14d33d5f9da07cd57879a61c7f88fda09ee0aa1f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/3cdaa77a72210843235a724be6cd6aa16ed1d075/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42604b47363170890a2e73cabb74b0253c1bae5d">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1624eef6086cc86f8a178152dcaaa71716d9d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/gdx-ai-1.8.0_756786dababec4b862ed4cf6fd6e9668fad40f93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.github.ytai.ioio/IOIOLibCore/5.05/99821d5ab444306c6e39f3de72f85c4b287a6765/IOIOLibCore-5.05.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99821d5ab444306c6e39f3de72f85c4b287a6765">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/IOIOLibCore-5.05_5b1001d508a4706fc4bf5a0d0e7975b928eb0c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_8ce9d6b7579ddb29ad07e5f88c79035bed8652af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/f4ed81d8dda7209fde98df5b36422183f5f8d0d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7eb8cafa44ed70860615af51c83606945c43fe73">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3125657cc7bfa8caa1bb3d09e4c7979a76ffb965/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/RobotLifeAlert3/common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0276f551c1bff43918d15b90a1984f4eadec12f0">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/RobotLifeAlert3-common-unspecified_84733a1a6b47b21276c0d59fc5192b6bfac15357.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/TangoReleaseLibs/jar/tango_java_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5535db653e019261093519b06e8ba9238d1cae68">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/2/tango_java_lib_dedd6f485004e2349ec9c95fa4763059189d06c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/TangoReleaseLibs/jar/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d84589fcb46bd691ea90edd614f09f3fa23b4645">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/tango_java_lib_dedd6f485004e2349ec9c95fa4763059189d06c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_77b7f9bf186853811978f12199ba0ad1f7d86283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b4708953695c0d925982ae7cf1c9b2eeb05b2223.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.1/41e844a4849872fdb9c33f3f2790e356f907f491/gdx-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41e844a4849872fdb9c33f3f2790e356f907f491">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.1_2c206990eabefc1449173c2b88cb1191ea5b2f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroidAccessory/5.05/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc276dd77600f248e53cc0bbf77a011d87931840">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidAccessory-5.05_733f274bfe3d3ffb46fca627aa91ec8a53e0c1cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c926fd221cf9d9e4dc29bd6aaa43db265f223f3">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3789a19a9e987a542fd04e5c5984ee48e44e4aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/212f04326ac5bb3fe8fc32d96fc894418a1d5cc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f347dcaafe682fdd3d3131c9d6568065a8cd83ab">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a7bcf7b9efcfc3ce703a0ce3198849078d536da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_7853b37c77e7c583457c9d062e78d4eaff90823b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_96be366d2f920a8f7d9c2c6d3761f049b85abedf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_384bbb5a5fff534e0b55db7587b1ba1ec0987e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_33ae61f010fe7b867f268e5e8f4eaf096acf7d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_6af49ccba46cedbc065c111285485fede4209cd7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f0b724b3c1172e7842343e37251e565ce2c8ba9">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f86c37043553c943505f785787056571871aa221/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroid/5.05/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c76a0936c82cef3da0770204f51f4914f32f6e08">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroid-5.05_3d7111decb9a070d9feace046337c0ca3b4e36eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.1/41e844a4849872fdb9c33f3f2790e356f907f491/gdx-1.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41e844a4849872fdb9c33f3f2790e356f907f491">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/gdx-1.9.1_2c206990eabefc1449173c2b88cb1191ea5b2f5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/52a4fbe43cb8d289f12a683a363d5cfd6560bd5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c76a0936c82cef3da0770204f51f4914f32f6e08">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f2649ed2449b4c33c53244796bbf9fb2a22543a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroidDevice/5.05/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7eb8cafa44ed70860615af51c83606945c43fe73">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidDevice-5.05_5029bc6241b236279c76d4b407e58288521ae963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6dc7451ccd4cc45a051021bc768bb52719819f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/tango_support_java_lib/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14a4b4be1b356c4d7bcb53794450d49fa1fdd698">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tango_support_java_lib_0876633eedb9ad614d0f2b350925a99a7cd3c1da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/tango-ux-support-library/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="953fe84810f8b14eacf885baa35807830f357695">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tango-ux-support-library_e9e29b7da86415cc30ee5799fdabdcfa091b99a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_d1060567e0f294e4a5fc764867ba0e4171b95acb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e2c14b92bd5679665ca1402a99d52ee785e00ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelszuminski/.android/build-cache/7c5af9800d933982c5a6f6be845d504fdbebcb22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc276dd77600f248e53cc0bbf77a011d87931840">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac814153289f553e8adeb2315e81ac84d84125da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a442f232c74f43aa6baed9a29cb13941bd10e6a">
+        <dex dex="/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/pre-dexed/debug/org.rajawali3d-rajawali-1.0.325_cab58e40137113c6bc5ebe9b83063fee85dc0c1a.jar" />
+    </item>
+
+</items>

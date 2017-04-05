@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/blend_add_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/blend_add_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/color_threshold_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/color_threshold_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/blur_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/blend_screen_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/fog_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/fog_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/grey_scale_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/grey_scale_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/minimal_vertex_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/minimal_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/r2d2.mp3",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/src/main/res/raw/r2d2.mp3"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/sepia_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/vignette_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/vignette_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/raw/copy_fragment_shader.glsl",
+        "source": "/Users/rafaelszuminski/.android/build-cache/44a1ea233b1bb7aac8744c5599fea20118a76bb6/output/res/raw/copy_fragment_shader.glsl"
+    }
+]

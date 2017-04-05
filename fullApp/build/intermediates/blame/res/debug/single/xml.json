@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/f4ed81d8dda7209fde98df5b36422183f5f8d0d5/output/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/xml/accessory_filter.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/7c5af9800d933982c5a6f6be845d504fdbebcb22/output/res/xml/accessory_filter.xml"
+    }
+]

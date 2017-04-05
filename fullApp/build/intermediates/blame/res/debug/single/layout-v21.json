@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

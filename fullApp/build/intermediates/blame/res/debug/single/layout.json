@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/layout_tango_ux.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/layout/layout_tango_ux.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/src/main/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/tango_ux_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/layout/tango_ux_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/activity_dashboard.xml",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/common/build/intermediates/bundles/default/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/layout_connection.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/layout/layout_connection.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/activity_point_cloud.xml",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/src/main/res/layout/activity_point_cloud.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/component_hold_steady.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/a312003581e4ccc3c8d732a54f38550ae74f239e/output/res/layout/component_hold_steady.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/rafaelszuminski/.android/build-cache/49c2aadaa9e9cfd97de066c3a4072bac80be7f4f/output/res/layout/select_dialog_item_material.xml"
+    }
+]

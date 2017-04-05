@@ -1,0 +1,7 @@
+#Tue Mar 28 20:34:50 PDT 2017
+base.0=/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f86c37043553c943505f785787056571871aa221
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e2c14b92bd5679665ca1402a99d52ee785e00ac/classes.dex
+base.1=/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e2c14b92bd5679665ca1402a99d52ee785e00ac
+file.0=/Users/rafaelszuminski/tango-examples-c-master/RobotLifeAlert3/fullApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f86c37043553c943505f785787056571871aa221/classes.dex
